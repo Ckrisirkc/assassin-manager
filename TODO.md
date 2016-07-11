@@ -1,4 +1,5 @@
-# Things TODO
+# Things TODO  
+@Humpis
 * - [ ] Work out game loop
   * - [x] Retrieving/Sending texts via email
   * - [ ] Figuring out what kind of framework we should use (Async? Threading? Stack-based?)
